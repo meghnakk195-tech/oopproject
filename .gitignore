@@ -1,0 +1,7 @@
+target/
+data/*.db
+data/*.db-journal
+.idea/
+*.iml
+.DS_Store
+*.class
